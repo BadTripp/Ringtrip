@@ -1,0 +1,14 @@
+{
+  "name": "dream",
+  "version": "0.0.1",
+  "description": "Sito dei sogni ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rennys",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.146.0"
+  }
+}
